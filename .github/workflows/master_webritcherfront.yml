@@ -59,4 +59,4 @@ jobs:
           app-name: 'webRitcherFront'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD49BC83A9A640909FD29DCFFFA8F3BA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_917FBE16274C497AAD23F27685EA9400 }}
